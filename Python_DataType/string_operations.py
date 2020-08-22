@@ -1,0 +1,6 @@
+#print("Hello I am Nikhil")
+#print('I am going to learn python')
+#print("Hello I am Nikhil\t"+"I am going to learn python")
+#print("Hello I am Nikhil\n"+"I am going to learn python")
+print("7"+"7")
+print("7"*7)
